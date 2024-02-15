@@ -11,7 +11,7 @@
 
 ### 📜 Descrição 
 
-
+Este é um projeto destinado a automatizar operações de pesquisa jurídica, melhorando a eficácia em tarefas diárias e simplificando processos de consulta no âmbito jurídico.
 
 ##
 
