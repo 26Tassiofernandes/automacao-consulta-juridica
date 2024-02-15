@@ -9,7 +9,8 @@
 
 ## Prévia
 
-![Gif que mostra o projeto em execução e as funcionalidades](https://github.com/26Tassiofernandes/automacao-consulta-juridica/automacao-consulta-juridica.gif)
+![Gif que mostra o projeto em execução e as funcionalidades](https://github.com/26Tassiofernandes/automacao-consulta-juridica/raw/main/automacao-consulta-juridica.gif)
+)
 
 ##
 
